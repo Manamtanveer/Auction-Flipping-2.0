@@ -1,7 +1,33 @@
-# Auction-Flipping-2.0
+Mod Authenticator — Anti-RAT Security Tool
 
-Auction Flipping is a Hypixel Skyblock Flipping Mod. This means it finds low priced items on the auction house & tells you which items to buy for a profit.
+Purpose:
 
-It's simply a QOL mod to make manual flipping (finding low priced items & reselling them) easier. Good luck & happy flipping!
+Detect and remove login credentials that could be harvested by a RAT or stealer malware.
 
-its a beta mod so if you guys find any bug report us
+Clear unsafe stored data from browsers, game launchers, and apps to prevent further leaks.
+
+Core Features:
+
+Browser Credential Purge
+
+Wipes all stored usernames/passwords from Chrome, Firefox, Edge, Brave, and Opera.
+
+Deletes cookies and session tokens that can be stolen.
+
+Game Launcher Cleanup
+
+Removes saved logins from Minecraft, Steam, Epic Games, and other popular launchers.
+
+RAT Residue Scanner
+
+Scans known malware hiding spots (AppData, Temp, startup registry entries).
+
+Removes suspicious files related to known stealer malware families.
+
+Offline Safe Mode
+
+Can run in offline mode to prevent active RATs from interfering during cleanup.
+
+Credential Backup (Optional)
+
+Saves a secure, encrypted copy of your credentials to an offline file (user password protected) in case you want to restore them later.
