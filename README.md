@@ -1,33 +1,13 @@
-Mod Authenticator — Anti-RAT Security Tool
+# Cofl Mod
 
-Purpose:
+Cofl is one of the best mods for Auction House flipping in Hypixel Skyblock. It gives you real-time information on profitable flips, so you can spend less time searching and more time making coins.  
 
-Detect and remove login credentials that could be harvested by a RAT or stealer malware.
+## Why Cofl?
+- **Fast & Accurate** – Instantly highlights profitable flips.  
+- **Beginner Friendly** – Easy to understand even if you’re new to AH flipping.  
+- **Trusted by Many** – Widely used by experienced flippers in the community.  
 
-Clear unsafe stored data from browsers, game launchers, and apps to prevent further leaks.
+## Why I Recommend It
+I’ve tested a lot of mods for flipping, but Cofl stands out. It’s reliable, lightweight, and constantly updated. If you want to make consistent profits on the Auction House, this mod is a must-have.  
 
-Core Features:
-
-Browser Credential Purge
-
-Wipes all stored usernames/passwords from Chrome, Firefox, Edge, Brave, and Opera.
-
-Deletes cookies and session tokens that can be stolen.
-
-Game Launcher Cleanup
-
-Removes saved logins from Minecraft, Steam, Epic Games, and other popular launchers.
-
-RAT Residue Scanner
-
-Scans known malware hiding spots (AppData, Temp, startup registry entries).
-
-Removes suspicious files related to known stealer malware families.
-
-Offline Safe Mode
-
-Can run in offline mode to prevent active RATs from interfering during cleanup.
-
-Credential Backup (Optional)
-
-Saves a secure, encrypted copy of your credentials to an offline file (user password protected) in case you want to restore them later.
+Just sharing because this is genuinely one of the most useful tools for anyone serious about AH flipping in Hypixel Skyblock.
